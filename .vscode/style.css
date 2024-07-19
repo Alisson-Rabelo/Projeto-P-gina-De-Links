@@ -35,7 +35,8 @@ body {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*margin-left: auto;
   margin-right: auto;
   pode ser substituido por: margin: auto
